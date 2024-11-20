@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arun Jyothi Guduru</h1>
 <h3 align="center">Using Knowledge and Creativity to Safeguard Digital Assets and Reduce Cyberthreats</h3>
 
+- 🌱 I’m currently learning **wireshark, Java fullstack development, cloud/AWS security**
+
+- 🤝 Awarded **Service Excellence award at Accenture Pvt. Ltd in 2022**
+
 - 📫 How to reach me **guduruarunjyothi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
